@@ -8,12 +8,7 @@
 [![ForTheBadge ios-supported](https://img.shields.io/badge/IOS-IOS%20Supported-lightgrey.svg)](https://flutter.dev)
 [![ForTheBadge ios-android](https://img.shields.io/badge/android-android%20supported-green.svg)](https://flutter.dev)
 
-</p>
 
-This project is an implementation of a Design i found on [dribbble.com](https://dribbble.com/shots/18688045-VPN-App) by [Umar Aji Pratama](https://dribbble.com/umarajipratama)
-
-## ❤️ Found this project useful?
-If you found this project useful, then please consider giving it a ⭐️ on Github and sharing it with your friends via social media.
 
 
 ## App UI
@@ -86,19 +81,3 @@ What things you need to run the app
 - **Test your changes!** Run your changes against any existing tests if they exist and create new ones when needed. Whether tests exist or not, make sure your changes don’t break the existing project.
 - **Contribute in the style of the project** to the best of your abilities. This may mean using indents, semi-colons or comments differently than you would in your own repository, but makes it easier for the maintainer to merge, others to understand and maintain in the future.
 
-## Built With
-
-- [Android Studio](https://developer.android.com/studio/install) - How to install Android Studio
-- [Flutter](https://flutter.io) - Flutter Official website
-
-## Author 😊
-
-**Adeel Safdar**
-
-- [**Linkedin**](https://www.linkedin.com/in/madeeldev/)
-
-## Inspiration
-
-**Umar Aji Pratama**
-
-- [**https://dribbble.com/umarajipratama**](https://dribbble.com/shots/18688045-VPN-App)
